@@ -15,7 +15,7 @@ jsonpointer==1.14
 jsonschema==2.6.0
 MarkupSafe==1.1.0
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.4
 requests==2.21.0
 rfc3987==1.3.8
 ruamel.yaml==0.15.85
